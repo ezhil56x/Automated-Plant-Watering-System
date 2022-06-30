@@ -1,6 +1,6 @@
 # Automated Plant Watering System
 
-The main purpose of this **Automated Plant Watering System** is to water the plants automatically whenever the soil is not moisture
+The main purpose of this **Automated Plant Watering System** is to water the plants automatically whenever the soil not wet
 
 ## Materials Required
 
@@ -16,7 +16,7 @@ The main purpose of this **Automated Plant Watering System** is to water the pla
 
 1. [Arduino IDE](https://www.arduino.cc/en/software)
 
-## Hardware
+## Procedure
 
 1. Connect the VCC on the Soil Moisture Sensor to 5V in Arduino UNO R3
 2. Connect the GND on the Soil Moisture Sensor to GND in Arduino UNO R3
