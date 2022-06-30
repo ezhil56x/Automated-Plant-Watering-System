@@ -25,7 +25,7 @@ The main purpose of this **Automated Plant Watering System** is to water the pla
 5. Connect the GND on the Arduino Uno R3 to GND in the 4 Channel Relay
 6. Connect the Negative End of the Pump to power supply
 7. Connect the Poitive End of the Pump to Relay 1 Normally Closed (NC)
-8. Take a Red Wire and connect one end of the wire to the Relay 1 Normally Open (NO) and another end to the power supply along with the wire referred in 6^t^^h^ Step
+8. Take a Red Wire and connect one end of the wire to the Relay 1 Normally Open (NO) and another end to the power supply along with the wire referred in Step 6
 9. Connect the Arduino Uno R3 to your PC with USB cable
 10. Open Arduino IDE, copy the Source Code
 11. In the menu bar choose Tools and choose Board as Arduino Uno and choose the appropriate port number
@@ -33,7 +33,3 @@ The main purpose of this **Automated Plant Watering System** is to water the pla
 13. When the process is completed, you can see Compilation complete and Upload complete in the console window
 14. After this submerge the Water Pump in water and connect the Soil Moisture Sensor in the soil
 15. The **Automated Plant Watering System** is ready to use !
-
-## Source Code
-
-Refer to the file SourceCode.ino attached above
