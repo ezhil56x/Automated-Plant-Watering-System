@@ -9,8 +9,6 @@ The main purpose of this **Automated Plant Watering System** is to water the pla
 3. Soil Moisture Sensor
 4. 4 Channel Relay
 5. Jumper Wires
-6. Potted Plant
-7. Hose Pipe
 
 ## Software
 
